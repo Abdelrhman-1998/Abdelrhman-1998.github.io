@@ -14,7 +14,7 @@ let seconds_ones=Seconds.lastElementChild;
 
 let video_buttons=document.getElementsByClassName("videoButton");
 let video_content=document.getElementById("myVideo");
-let video_sources=["pexels-ignat-schukin-10541160.mp4","pexels-mart-production-7565628.mp4","pexels-rostislav-uzunov-7710243.mp4","pexels-rostislav-uzunov-8252781.mp4","production ID_3796398 .mp4","production ID_4440816.mp4","pexels-artem-podrez-7048753.mp4"];
+let video_sources=["pexels-ignat-schukin-10541160.mp4","pexels-mart-production-7565628.mp4","pexels-rostislav-uzunov-7710243.mp4","pexels-rostislav-uzunov-8252781.mp4","production ID_3796398.mp4","production ID_4440816.mp4","pexels-artem-podrez-7048753.mp4"];
 let shuffle_videos=document.getElementById("shuffle");
 /*---------------------------------------------------*/
 function counterUP(){
